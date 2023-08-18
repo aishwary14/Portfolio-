@@ -1,0 +1,34 @@
+
+img {
+    float: right;
+    margin: 50px 125px;
+
+    margin-top: 10px;
+    border: solid 3px rgb(9, 57, 77);
+    border-radius: 50%;
+      
+    
+}
+
+body {
+background-color: #272727;
+color: white;
+
+}
+#port{
+
+    background-color:#802BB1; 
+    text-align:center;
+    color: white;
+    padding: 8px 10px 8px 10px;
+    margin-top:0px ;
+  
+}
+#name{
+  font-size: 40px;
+
+}
+#con{
+
+    clear: both;
+}
